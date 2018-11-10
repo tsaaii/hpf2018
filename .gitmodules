@@ -1,0 +1,3 @@
+[submodule "hpf2018"]
+	path = hpf2018
+	url = https://github.com/tsaaii/hpf2018.git
