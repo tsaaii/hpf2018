@@ -14,3 +14,5 @@ test.mlmodel can classify a to z and del, space, nothing hand symbols.
 
 You can use this model in CoreML to create an iOS application. This model doesn't need internet and is capable of classifying objects locally on the fly.
 
+TranslateAR is our final model which can classify a symbol and render its label in AR. You can download it and run on your xcode.
+
